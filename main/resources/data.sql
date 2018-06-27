@@ -49,3 +49,10 @@ insert into Player (id, name, team_id) values (889, 'Hugo Lloris', 500);
 insert into Player (id, name, team_id) values (890, 'Samuel Umtiti', 500);
 
 insert into Match (id, teamA, teamB) values (1, 300, 500);
+insert into Match (id, teamA, teamB) values (2, 200, 600);
+insert into Match (id, teamA, teamB) values (3, 100, 700);
+insert into Match (id, teamA, teamB) values (4, 400, 600);
+insert into Match (id, teamA, teamB) values (5, 600, 200);
+insert into Match (id, teamA, teamB) values (6, 700, 400);
+insert into Match (id, teamA, teamB) values (7, 800, 300);
+insert into Match (id, teamA, teamB) values (8, 500, 100);
