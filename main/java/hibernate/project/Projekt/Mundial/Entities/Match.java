@@ -13,6 +13,14 @@ public class Match {
     @ManyToOne
     public Team teamA;
 
+    public Team getTeamA() {
+        return teamA;
+    }
+
+    public Team getTeamB() {
+        return teamB;
+    }
+
     @ManyToOne
     public Team teamB;
 
